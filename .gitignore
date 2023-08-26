@@ -162,3 +162,7 @@ cython_debug/
 # Data
 data/
 data
+
+# Virtual Env
+virtual_env/
+virtual_env
